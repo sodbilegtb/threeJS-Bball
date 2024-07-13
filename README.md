@@ -1,6 +1,8 @@
 # Basketball Court with three.js
 This project creates a virtual basketball court using the three.js library. It includes a textured basketball, a court floor, wall, a backboard, and a hoop with a rim. The basketball animates with basic physics, demonstrating gravity and collision with the ground.
 
+I wanted to use npm three.js first, but it didn't work well, so I changed three.js from npm to CDN usage.
+
 ## Features
 - **Basketball:** A textured basketball sphere that moves and rotates.
 - **Court Floor:** A textured plane representing the basketball court floor.
